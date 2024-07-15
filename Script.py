@@ -228,18 +228,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b> Size ⚙️: {file_size}
-<a href='https://t.me/New_movie_search_Group'>Movie Group 1 </a>
-<a href='https://t.me/New_Series_search_Group'>Movie Group 2 </a>
-<a href='https://t.me/mallu_movies4'>Movie Group 3 </a>
-<a href='https://t.me/Netflix_Group3'>Movie Group 4 </a>
-<a href='https://t.me/Malayalam_Movie_Request_group'>Movie Group 5 </a>
-<a href='https://t.me/English_Movie_search'>Movie Group 6 </a>
-<a href='https://t.me/New_Release_Group'>Movie Group 7 </a>
-<a href='https://t.me/Movies_Finder_Group'>Movie Group 8 </a> </b>""" 
-
+=========== • ✠ • ===========
+▫️ ᴄʜᴀɴɴᴇʟ : @mnbots 
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @mnbots_support 
+=========== • ✠ • ===========</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
